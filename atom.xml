@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://jfontan.github.com/atom.xml" rel="self"/>
+  <link href="http://jfontan.github.com/"/>
+  <updated>2011-07-24T18:13:55+02:00</updated>
+  <id>http://jfontan.github.com/</id>
+  <author>
+    <name>Javi Fontan</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>Test</title>
+    <link href="http://jfontan.github.com/blog/2011/07/24/test"/>
+    <updated>2011-07-24T17:53:00+02:00</updated>
+    <id>http://jfontan.github.com/blog/2011/07/24/test</id>
+    <content type="html">&lt;p&gt;Hello!&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
